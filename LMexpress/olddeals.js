@@ -22,7 +22,7 @@ else{
 	window.agarioID=localStorage.getItem("agarioID");	
 }
 */
-window.MiniclipConfigDestination = "https://configs-web.agario.miniclippt.com/live/v15/2230/GameConfiguration.json";
+window.MiniclipConfigDestination = "https://configs-web.agario.miniclippt.com/live/v12/2168/GameConfiguration.json";
 window.MiniclipDestination = "https://configs-web.agario.miniclippt.com/live/v15/2230/";
 
 if (window.agarversion != null) {
